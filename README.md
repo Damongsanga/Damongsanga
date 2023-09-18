@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <br>
 ⚡ Fun fact: I like street dancing!
 
-
-<hr>
 ![Damongsanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damongsanga&show_icons=true&theme=dark) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmike0413)](https://solved.ac/bmike0413)
 
-<hr>
-![Damongsanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damongsanga&show_icons=true&theme=dark) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://damongsanga22.tistory.com/")
