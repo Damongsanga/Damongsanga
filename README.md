@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on SSAFY
+🔭 I’m currently working on SSAFY
+⚡ Fun fact: I like street dancing!
 
 ![Damongsanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damongsanga&show_icons=true&theme=dark) 
-<br>
+<hr>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmike0413)](https://solved.ac/bmike0413)
 
-
+<hr>
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://damongsanga22.tistory.com/")
