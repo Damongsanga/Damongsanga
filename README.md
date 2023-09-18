@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on SSAFY
 
 ![Damongsanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damongsanga&show_icons=true&theme=dark) 
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmike0413)](https://solved.ac/bmike0413)
 
 
