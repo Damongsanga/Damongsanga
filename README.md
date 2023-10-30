@@ -44,8 +44,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 📫 Contact
-
-<a href="https://damongsanga22.tistory.com/"> <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white"> </a>>
+<a href="https://damongsanga22.tistory.com/"> <img src="https://img.shields.io/badge/TISTORY-FF5747?style=for-the-badge&logo=tistory&logoColor=white"> </a>
 
 🕺 Fun fact: I like street dancing!
 
