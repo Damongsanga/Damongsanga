@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Damongsanga🎱&fontSize=60&animation=fadeIn" alt="header">
-</p>
-<div align="center">
-✉️ Email : mike0413lata@gmail.com <a href="https://velog.io/@damongsanga/posts">📫 Blog</a>
-<hr>
-<div align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bmike0413" height=200> <img src="https://github-readme-stats.vercel.app/api?username=Damongsanga&show_icons=true&theme=light" height=200> 
-</div>
-<hr>
-
-
 ### 🤔 Experiences
 #### 📘 SSAFY 10th @Seoul 2023.07 ~ 
 #### 👨🏻‍🔬 Samsung Electo-Mechanics 2021.02 ~ 2023.05 
@@ -29,10 +17,6 @@
 ![amazonec2][amazonec2] ![nginx][nginx]  ![docker][docker] ![jenkins][jenkins] ![Sonarqube][sonarqube]
 #### Cooperation
 ![Git][Git] ![Jira][Jira] ![discord][discord] ![notion][notion]
-
-
-
-#### 🕺 Fun fact: I like street dancing!
 
 </div>
 
