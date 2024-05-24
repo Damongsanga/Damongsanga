@@ -1,22 +1,25 @@
 ### 🗃️ Skills
-
-#### Back
+**Back**<br>
 ![Java][Java] ![springboot][springboot] ![springdatajpa][springdatajpa] ![querydsl][querydsl] ![springsecurity][springsecurity] 
-#### Front
+
+**Front** <br>
 ![Javascript][Javascript] ![Vue.js][Vue.js] 
-#### Database
+
+**Database**<br>
 ![mysql][mysql] ![redis][redis] ![amazons3][amazons3]
-#### Infra
+
+**Infra**<br>
 ![amazonec2][amazonec2] ![nginx][nginx]  ![docker][docker] ![jenkins][jenkins] ![Sonarqube][sonarqube]
-#### Cooperation
+
+**Cooperation**<br>
 ![Git][Git] ![Jira][Jira] ![discord][discord] ![notion][notion]
 
 </div>
 
 ### 💻 Experiences
-#### 📘 SSAFY 10th @Seoul 2023.07 ~ 
-#### 👨🏻‍🔬 Samsung Electo-Mechanics 2021.02 ~ 2023.05 
-#### 🎓 Yonsei Univ. Material Science & Engineering 2014.03 ~ 2021.02 
+**📘 SSAFY 10th @Seoul 2023.07 ~ 2024.06**<br>
+**👨🏻‍🔬 Samsung Electo-Mechanics 2021.02 ~ 2023.05**<br>
+**🎓 Yonsei Univ. Material Science & Engineering 2014.03 ~ 2021.02**
 
 
 
