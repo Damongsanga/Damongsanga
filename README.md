@@ -1,10 +1,3 @@
-### 🤔 Experiences
-#### 📘 SSAFY 10th @Seoul 2023.07 ~ 
-#### 👨🏻‍🔬 Samsung Electo-Mechanics 2021.02 ~ 2023.05 
-#### 🎓 Yonsei Univ. Material Science & Engineering 2014.03 ~ 2021.02 
-
-<br>
-
 ### 🗃️ Skills
 
 #### Back
@@ -19,6 +12,11 @@
 ![Git][Git] ![Jira][Jira] ![discord][discord] ![notion][notion]
 
 </div>
+
+### 💻 Experiences
+#### 📘 SSAFY 10th @Seoul 2023.07 ~ 
+#### 👨🏻‍🔬 Samsung Electo-Mechanics 2021.02 ~ 2023.05 
+#### 🎓 Yonsei Univ. Material Science & Engineering 2014.03 ~ 2021.02 
 
 
 
