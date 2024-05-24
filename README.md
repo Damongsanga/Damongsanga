@@ -1,19 +1,14 @@
 ### 🗃️ Skills
 **Back**<br>
-![Java][Java] ![springboot][springboot] ![springdatajpa][springdatajpa] ![querydsl][querydsl] ![springsecurity][springsecurity] 
-
+![Java][Java] ![springboot][springboot] ![springdatajpa][springdatajpa] ![querydsl][querydsl] ![springsecurity][springsecurity] <br>
 **Front** <br>
-![Javascript][Javascript] ![Vue.js][Vue.js] 
-
+![Javascript][Javascript] ![Vue.js][Vue.js] <br>
 **Database**<br>
-![mysql][mysql] ![redis][redis] ![amazons3][amazons3]
-
+![mysql][mysql] ![redis][redis] ![amazons3][amazons3] <br>
 **Infra**<br>
-![amazonec2][amazonec2] ![nginx][nginx]  ![docker][docker] ![jenkins][jenkins] ![Sonarqube][sonarqube]
-
+![amazonec2][amazonec2] ![nginx][nginx]  ![docker][docker] ![jenkins][jenkins] ![Sonarqube][sonarqube] <br>
 **Cooperation**<br>
-![Git][Git] ![Jira][Jira] ![discord][discord] ![notion][notion]
-
+![Git][Git] ![Jira][Jira] ![discord][discord] ![notion][notion] <br>
 </div>
 
 ### 💻 Experiences
