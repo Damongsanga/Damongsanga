@@ -1,6 +1,18 @@
 ### 🗃️ Skills
+<!-- Back<br>
+Java, Spring Boot, JPA, QueryDsl, Spring Security <br>
+Front <br>
+Javascript, Vue.Js<br>
+Database<br>
+MySQL, Redis <br>
+Infra<br>
+Amazon EC2, Nginx, Docker, Jenkins, Sonarqube<br>
+Cooperation<br>
+Git, Jira, Notion<br>
+</div> -->
+
 **Back**<br>
-![Java][Java] ![springboot][springboot] ![springdatajpa][springdatajpa] ![querydsl][querydsl] ![springsecurity][springsecurity] <br>
+![Java][Java] ![springboot][springboot] ![jpa][jpa] ![querydsl][querydsl] ![springsecurity][springsecurity] <br>
 **Front** <br>
 ![Javascript][Javascript] ![Vue.js][Vue.js] <br>
 **Database**<br>
@@ -8,7 +20,7 @@
 **Infra**<br>
 ![amazonec2][amazonec2] ![nginx][nginx]  ![docker][docker] ![jenkins][jenkins] ![Sonarqube][sonarqube] <br>
 **Cooperation**<br>
-![Git][Git] ![Jira][Jira] ![discord][discord] ![notion][notion] <br>
+![Git][Git] ![Jira][Jira] ![notion][notion] <br>
 </div>
 
 ### 💻 Experiences
@@ -35,6 +47,6 @@
 [docker]: https://img.shields.io/badge/docker--2496ED?style=for-the-badge&logo=docker&logoColor=2496ED
 [jenkins]: https://img.shields.io/badge/jenkins--D24939?style=for-the-badge&logo=jenkins&logoColor=D24939
 [amazons3]: https://img.shields.io/badge/amazons3--569A31?style=for-the-badge&logo=amazons3&logoColor=569A31
-[springdatajpa]: https://img.shields.io/badge/SPRINGDATAJPA--6DB33F?style=for-the-badge&logoColor=white
+[jpa]: https://img.shields.io/badge/JPA--6DB33F?style=for-the-badge&logoColor=white
 [querydsl]: https://img.shields.io/badge/querydsl--669DF6?style=for-the-badge&logoColor=white
 [springsecurity]: https://img.shields.io/badge/SPRINGSECURITY--6DB33F?style=for-the-badge&logo=springsecurity&logoColor=6DB33F
