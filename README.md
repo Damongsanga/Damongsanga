@@ -12,15 +12,24 @@ Git, Jira, Notion<br>
 </div> -->
 
 **Back**<br>
-![Java][Java] ![springboot][springboot] ![jpa][jpa] ![querydsl][querydsl] ![springsecurity][springsecurity] <br>
-**Front** <br>
-![Javascript][Javascript] ![Vue.js][Vue.js] <br>
+Java, Kotlin, JPA, QueryDsl <br> 
+Spring Security, Batch <br>
+JUnit, Mockito/MockK, Kotest <br>
+
 **Database**<br>
-![mysql][mysql] ![redis][redis] ![amazons3][amazons3] <br>
-**Infra**<br>
-![amazonec2][amazonec2] ![nginx][nginx]  ![docker][docker] ![jenkins][jenkins] ![Sonarqube][sonarqube] <br>
+MySQL, Redis, OpenSearch <br>
+
+**Infra, CI/CD**<br>
+AWS EC2, Nginx, Docker, Git Action, Jenkins, Sonarqube <br>
+
+**Monitoring**<br>
+Datadog, AWS Cloudwatch <br>
+
+**Front** <br>
+JavaScript, Vue.js <br>
+
 **Cooperation**<br>
-![Git][Git] ![Jira][Jira] ![notion][notion] <br>
+Git, Jira, Slack, Notion
 </div>
 
 ### 💻 Experiences
