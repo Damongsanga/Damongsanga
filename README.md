@@ -1,34 +1,23 @@
 ### 🗃️ Skills
-<!-- Back<br>
-Java, Spring Boot, JPA, QueryDsl, Spring Security <br>
-Front <br>
-Javascript, Vue.Js<br>
-Database<br>
-MySQL, Redis <br>
-Infra<br>
-Amazon EC2, Nginx, Docker, Jenkins, Sonarqube<br>
-Cooperation<br>
-Git, Jira, Notion<br>
-</div> -->
 
-**Back**<br>
+📌 **Back**<br>
 Java, Kotlin, JPA, QueryDsl <br> 
 Spring Security, Batch <br>
 JUnit, Mockito/MockK, Kotest <br>
 
-**Database**<br>
+📌 **Database**<br>
 MySQL, Redis, OpenSearch <br>
 
-**Infra, CI/CD**<br>
+📌 **Infra, CI/CD**<br>
 AWS EC2, Nginx, Docker, Git Action, Jenkins, Sonarqube <br>
 
-**Monitoring**<br>
+📌 **Monitoring**<br>
 Datadog, AWS Cloudwatch <br>
 
-**Front** <br>
+📌 **Front** <br>
 JavaScript, Vue.js <br>
 
-**Cooperation**<br>
+📌 **Cooperation**<br>
 Git, Jira, Slack, Notion
 </div>
 
