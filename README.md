@@ -2,7 +2,7 @@
 
 📌 **Back**<br>
 Java, Kotlin, JPA, QueryDsl <br> 
-Spring Security, Batch <br>
+Spring Security, Spring Batch <br>
 JUnit, Mockito/MockK, Kotest <br>
 
 📌 **Database**<br>
